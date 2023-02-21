@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 30%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+main div.display {
+  background-color: #858693;
+  text-align: right;
+}
+
+main div.display p.display {
+  font-size: 1.5rem;
+  padding: 10px;
+  color: #fff;
+}
+
+main div.symbols-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+}
+
+main div.symbols-container button.symbol {
+  background-color: #e0e0e0;
+  height: 80px;
+}
+
+main div.symbols-container button.symbol:nth-of-type(4),
+main div.symbols-container button.symbol:nth-of-type(8),
+main div.symbols-container button.symbol:nth-of-type(12),
+main div.symbols-container button.symbol:nth-of-type(16),
+main div.symbols-container button.symbol:nth-of-type(19) {
+  background-color: #f5913e;
+}
+
+main div.symbols-container button.symbol:nth-of-type(17) {
+  grid-column: span 2;
+}

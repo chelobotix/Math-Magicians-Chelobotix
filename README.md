@@ -3,15 +3,15 @@
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/65084923/220199759-5ed7acb0-be16-4bb8-86ad-c080a97b3a35.jpg" alt="logo" width="400"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/65084923/220454148-be6c369f-a646-4471-83fe-181539e27320.png" alt="logo" width="400"  height="auto" />
   <br/>
   <img src="https://user-images.githubusercontent.com/65084923/220199943-ce6cd5da-d55e-4149-a0ac-8c588216d81f.png" alt="logo" width="300"  height="auto" />
   <br/>
   <img src="https://user-images.githubusercontent.com/65084923/220200035-01fa5e08-af6a-495b-b597-55157a2b7d95.gif" alt="logo" />
   <br/>
 
-  <h3><b>React Template with Linters</b></h3>
-  <h3><b>React Template with Linters - Microverse Project Module 3</b></h3>
+  <h3><b>Math Magicians</b></h3>
+  <h3><b>Math Magicians - React Microverse Project Module 3</b></h3>
 
 </div>
 
@@ -34,9 +34,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 React Template with Linters - Micorverse Project Module 3<a name="about-project"></a>
+# 📖 Math Magicians - React Microverse Project Module 3<a name="about-project"></a>
 
-> React Template with Linters App developed with Nodejs, Html, Css, Js, Webpack, React
+> Math Magicians React App developed with Nodejs, Html, Css, Js, Webpack, React
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,9 +57,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **React Template**
-- **Stylelint**
-- **ESLint**
+- **Html Skeleton**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +75,7 @@ To get a local copy up and use as a template for your own portafolio site, follo
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/chelobotix/React-Template-Chelobotix.git
+  https://github.com/chelobotix/Math-Magicians-Chelobotix.git
 ```
 
 ## 🤖 Available Scripts <a name="available-scripts"></a>
@@ -131,7 +129,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **new Updates**
+- [ ] **Adding functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,8 +162,8 @@ My mother. Let's play to the end together ❤️ with 🧠
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<a href="https://github.com/chelobotix/React-Template-Chelobotix/blob/develop/licence">License</a>) licensed.
+This project is [MIT](<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/calculator-skeleton/licence">License</a>) licensed.
 
-<a href="https://github.com/chelobotix/React-Template-Chelobotix/blob/develop/licence">License</a>
+<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/calculator-skeleton/licence">License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
