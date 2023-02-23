@@ -13,6 +13,7 @@ main {
 main div.display {
   background-color: #858693;
   text-align: right;
+  height: 50px;
 }
 
 main div.display p.display {

@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/65084923/220454148-be6c369f-a646-4471-83fe-181539e27320.png" alt="logo" width="400"  height="auto" />
@@ -18,6 +17,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -57,7 +57,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Html Skeleton**
+- **Website build with React**
+- **Basic Calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +110,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHOR -->
@@ -129,7 +129,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Adding functionality**
+- [ ] **Other functionalities**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,8 +162,8 @@ My mother. Let's play to the end together ❤️ with 🧠
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/calculator-skeleton/licence">License</a>) licensed.
+This project is [MIT](<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/logic/licence">License</a>) licensed.
 
-<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/calculator-skeleton/licence">License</a>
+<a href="https://github.com/chelobotix/Math-Magicians-Chelobotix/blob/logic/licence">License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
