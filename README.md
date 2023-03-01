@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/65084923/220454148-be6c369f-a646-4471-83fe-181539e27320.png" alt="logo" width="400"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/65084923/220454148-be6c369f-a646-4471-83fe-181539e27320.png" alt="logo" width="300"  height="auto" />
   <br/>
   <img src="https://user-images.githubusercontent.com/65084923/220199943-ce6cd5da-d55e-4149-a0ac-8c588216d81f.png" alt="logo" width="300"  height="auto" />
   <br/>
@@ -58,6 +58,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Website build with React**
+- **Route: Home - Calculator - Quote**
 - **Basic Calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,7 +155,7 @@ My mother. Let's play to the end together ❤️ with 🧠
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Is there any restriction to adapting the page to other porpouse??**
+- **Is there any restriction to adapting the page to other porpuse??**
 
   - No problem.
 

@@ -1,6 +1,6 @@
 /* eslint-disable prefer-const */
 /* eslint-disable no-unused-vars */
-import './calculator.css';
+import '../styles/calculator.css';
 import { useState } from 'react';
 import Display from './Display';
 import CalcButton from './Pad';
@@ -18,30 +18,33 @@ const CalculatorContainer = () => {
     setCalcObj(calcObj);
   };
   return (
-    <main>
-      <Display calcObj={calcObj} />
-      <div className="symbols-container">
-        <CalcButton symbol="AC" function1={handleClick} />
-        <CalcButton symbol="+/-" function1={handleClick} />
-        <CalcButton symbol="%" function1={handleClick} />
-        <CalcButton symbol="÷" function1={handleClick} />
-        <CalcButton symbol="7" function1={handleClick} />
-        <CalcButton symbol="8" function1={handleClick} />
-        <CalcButton symbol="9" function1={handleClick} />
-        <CalcButton symbol="x" function1={handleClick} />
-        <CalcButton symbol="4" function1={handleClick} />
-        <CalcButton symbol="5" function1={handleClick} />
-        <CalcButton symbol="6" function1={handleClick} />
-        <CalcButton symbol="-" function1={handleClick} />
-        <CalcButton symbol="1" function1={handleClick} />
-        <CalcButton symbol="2" function1={handleClick} />
-        <CalcButton symbol="3" function1={handleClick} />
-        <CalcButton symbol="+" function1={handleClick} />
-        <CalcButton symbol="0" function1={handleClick} />
-        <CalcButton symbol="." function1={handleClick} />
-        <CalcButton symbol="=" function1={handleClick} />
+    <section className="section-calculator">
+      <h2 className="h2">Let`s do some math!</h2>
+      <div className="calc-container">
+        <Display calcObj={calcObj} />
+        <div className="symbols-container">
+          <CalcButton symbol="AC" function1={handleClick} />
+          <CalcButton symbol="+/-" function1={handleClick} />
+          <CalcButton symbol="%" function1={handleClick} />
+          <CalcButton symbol="÷" function1={handleClick} />
+          <CalcButton symbol="7" function1={handleClick} />
+          <CalcButton symbol="8" function1={handleClick} />
+          <CalcButton symbol="9" function1={handleClick} />
+          <CalcButton symbol="x" function1={handleClick} />
+          <CalcButton symbol="4" function1={handleClick} />
+          <CalcButton symbol="5" function1={handleClick} />
+          <CalcButton symbol="6" function1={handleClick} />
+          <CalcButton symbol="-" function1={handleClick} />
+          <CalcButton symbol="1" function1={handleClick} />
+          <CalcButton symbol="2" function1={handleClick} />
+          <CalcButton symbol="3" function1={handleClick} />
+          <CalcButton symbol="+" function1={handleClick} />
+          <CalcButton symbol="0" function1={handleClick} />
+          <CalcButton symbol="." function1={handleClick} />
+          <CalcButton symbol="=" function1={handleClick} />
+        </div>
       </div>
-    </main>
+    </section>
   );
 };
 

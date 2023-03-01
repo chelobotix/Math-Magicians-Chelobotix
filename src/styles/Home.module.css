@@ -1,0 +1,19 @@
+.sectionHome {
+  display: flex;
+  flex-direction: column;
+  background-color: #edf1d6;
+  padding: 20px 30px 0 30px;
+}
+
+.h2 {
+  font-size: 30px;
+  color: #609966;
+  margin-bottom: 10px;
+}
+
+.p {
+  padding-bottom: 15px;
+  text-align: justify;
+  font-size: 18px;
+  color: #609966;
+}

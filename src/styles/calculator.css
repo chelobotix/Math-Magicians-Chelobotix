@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #edf1d6;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  background-color: #edf1d6;
+}
+
+.section-calculator {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.h2 {
+  font-size: 30px;
+  color: #609966;
+  margin-bottom: 10px;
+}
+
+.section-calculator .calc-container {
+  width: 400px;
+  background-color: #edf1d6;
+  border: 2px solid #40513b;
+  -webkit-box-shadow: -10px 0 13px -7px #40513b, 10px 0 13px -7px #40513b, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  box-shadow: -10px 0 13px -7px #40513b, 10px 0 13px -7px #40513b, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+}
+
+.section-calculator .calc-container div.display {
+  background-color: #609966;
+  text-align: right;
+  height: 50px;
+  border-bottom: 2px solid #40513b;
+}
+
+.section-calculator .calc-container div.display p.display {
+  font-size: 1.5rem;
+  padding: 10px;
+  color: #fff;
+}
+
+.section-calculator .calc-container div.symbols-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+}
+
+.section-calculator .calc-container div.symbols-container button.symbol {
+  background-color: #9dc08b;
+  height: 80px;
+}
+
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(4),
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(8),
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(12),
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(16),
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(19) {
+  background-color: #609966;
+}
+
+.section-calculator .calc-container div.symbols-container button.symbol:nth-of-type(17) {
+  grid-column: span 2;
+}
+
+@media only screen and (max-width: 454px) {
+  .section-calculator {
+    width: 300px;
+    flex-direction: column;
+  }
+
+  .section-calculator .calc-container {
+    width: 100%;
+  }
+}
