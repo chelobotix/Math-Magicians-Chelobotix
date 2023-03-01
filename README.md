@@ -58,6 +58,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Website build with React**
+- **Route: Home - Calculator - Quote**
 - **Basic Calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,7 +155,7 @@ My mother. Let's play to the end together ❤️ with 🧠
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Is there any restriction to adapting the page to other porpouse??**
+- **Is there any restriction to adapting the page to other porpuse??**
 
   - No problem.
 
