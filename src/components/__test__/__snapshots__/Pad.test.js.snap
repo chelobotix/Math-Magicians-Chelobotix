@@ -5,5 +5,7 @@ exports[`Pad Component Tree 1`] = `
   className="symbol"
   onClick={[Function]}
   type="button"
-/>
+>
+  1
+</button>
 `;
