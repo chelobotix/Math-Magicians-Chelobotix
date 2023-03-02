@@ -60,6 +60,8 @@
 - **Website build with React**
 - **Route: Home - Calculator - Quote**
 - **Basic Calculator**
+- **Add tests for components**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
